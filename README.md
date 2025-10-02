@@ -20,7 +20,7 @@ Aquí encontrarás toda la información esencial sobre este increíble título d
 ## 🌐 Enlace a la página
 
 
-👉 **https://josuedfgt.github.io/hadesII-page**
+👉 **https://josuedfgt.github.io/Hades-II/e**
 
 
 ---
