@@ -22,7 +22,6 @@ Aquí encontrarás toda la información esencial sobre este increíble título d
 Cuando publiques tu sitio en GitHub Pages, podrás verlo aquí:  
 👉 **https://josuedfgt.github.io/hades2-page**
 
-*(Reemplaza “TU-USUARIO” por tu nombre de usuario de GitHub)*
 
 ---
 
@@ -35,7 +34,7 @@ Contiene texto informativo, tablas, listas, imágenes y estilos personalizados.
 
 ## 👨‍💻 Autor
 
-Creado por **[Tu Nombre]**  
+Creado por **[JOSUE]**  
 📅 Año: 2025  
 💬 Siéntete libre de mejorar o modificar esta página.
 
