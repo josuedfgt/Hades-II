@@ -19,8 +19,8 @@ Aquí encontrarás toda la información esencial sobre este increíble título d
 
 ## 🌐 Enlace a la página
 
-Cuando publiques tu sitio en GitHub Pages, podrás verlo aquí:  
-👉 **https://josuedfgt.github.io/hades2-page**
+
+👉 **https://josuedfgt.github.io/hadesII-page**
 
 
 ---
